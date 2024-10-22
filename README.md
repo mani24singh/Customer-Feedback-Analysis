@@ -2,7 +2,7 @@
 Leverage NLP techniques to analyze social media comments, extracting insights on customer perceptions and sentiments regarding new product launches.
 
 
-# CASE STUDY: PUBLIC RELATIONS DEPARTMENT
+## CASE STUDY: PUBLIC RELATIONS DEPARTMENT
 
 ## Key Learning Outcomes:
 - Learn how to leverage the power of data science to deal with text data.
